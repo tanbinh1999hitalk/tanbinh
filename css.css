@@ -1,0 +1,135 @@
+/* CSS Document */
+#foder{
+	height: 90px;
+}
+.do{
+	float:left;
+	width:443px;
+	height:90px;
+}
+.img1{
+	padding-top:12px;
+}
+.do1{
+	float:left;
+	width:445px;
+	height:90px;
+}
+.img2{
+	margin-left:50px;
+	padding-top:12px;
+}
+#seach{
+	height:30px;
+	width:250px;
+	font-size:14px;
+}
+.do2{
+	float:left;
+	width:445px;
+	height:90px;
+}
+.do2>ul>li>a{
+	text-decoration:none;
+	color:#999;
+}
+.do2>ul>li{
+	display:inline-block;
+}
+.img3{
+	padding-top:12px;
+	margin-left:250px;
+}
+#nav{
+	height: 50px;
+	background: #000;
+}
+
+.menu>ul>li{
+	margin-top:-17px;
+	position:relative;
+	display:inline-block;
+}
+.menu>ul>li>a{
+	padding:-2px;
+	display:block;
+	text-decoration:none;
+	margin:35px;
+	font-size:18px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#FFF;
+}
+
+.submenu-fix{
+	position: absolute;
+	left: 10px;
+	top: 50px;
+}
+
+.menu>ul{
+	padding:0px;
+	margin-top:0px;
+	list-style:none;
+	text-align:center;
+	color:#FFF;
+	font-size:18px;
+}
+.menu>ul>li>a:hover{
+	color:#F96;
+}
+.menu ul ul{
+	padding:0px;
+	margin:-25px;
+	position:absolute;
+	display:none;
+	list-style:none;
+	float:none;
+	background-color:#000;
+	width:200px;
+	text-align:center;
+}
+.menu>ul>ul>li{
+	position:relative;
+	display:inline-block;
+}
+.menu ul ul a{
+	display:block;
+	line-height:40px;
+	color:#FFF;
+	text-decoration:none;
+	font-variant:small-caps;
+	font-size:large;
+	padding:0px;
+	
+}
+.menu>ul>li:hover>ul{
+	display:block;
+}
+.menu ul ul a:hover{
+	
+	color:#F66;
+}
+
+#adela{
+	height: 1000px;
+	background: pink;
+}
+#heder{
+	height: 300px;
+	clear:both;
+}
+.go{
+	height:230px;
+	background:#0C6;
+}
+.go1{
+	height:70px;
+	background:#000;
+	padding-top:5px;
+	
+}
+.cut{
+	margin-top:5px;
+	margin:5px;
+	color:#FFF;
+}
